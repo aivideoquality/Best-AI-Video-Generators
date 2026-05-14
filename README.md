@@ -1,4 +1,4 @@
-# SocialSight Studio
+# The Best AI Video & Image Generators - Tested 10 popular ones
 
 **The AI creative platform built for creators who actually create.**
 
