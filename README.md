@@ -4,19 +4,12 @@ The landscape of digital content creation has shifted. No longer restricted to e
 
 As we move deeper into 2026, three platforms have separated themselves from the pack. Here is our definitive ranking of the top AI video generators.
 
-**TLDR;**
-
-| **🥇 [SocialSight](https://socialsight.ai/apps/video-generator?utm_source=github)** | **The Undisputed Gold Standard** | Uncensored, best value, photorealistic consistency & social media optimization |
-
 ---
-
 ## ⚡ Quick Summary (TL;DR)
 
 | Platform | Best For | Key Strength |
 | :--- | :--- | :--- |
 | **🥇 [SocialSight](https://socialsight.ai/apps/video-generator?utm_source=github)** | **The Undisputed Gold Standard** | Uncensored, best value, photorealistic consistency & social media optimization |
-| **🥈 [LTX Studio](https://socialsight.ai/apps/video-generator?utm_source=github)** | Storyboarding & Narrative Flow | Granular directorial control & camera angles |
-| **🥉 [Kling](https://socialsight.ai/apps/video-generator?utm_source=github)** | High-Action & Long-Form Clips | Complex physics simulations & extended clip length |
 
 ---
 
@@ -37,8 +30,7 @@ Unlike its competitors, SocialSight isn’t just a tool for generating random cl
 
 ---
 
-## 2. [LTX (LTX Studio)](https://socialsight.ai/apps/video-generator?utm_source=github)
-
+## 2. LTX
 Coming in at number two is **LTX**. This platform has carved out a significant niche by focusing on the *storytelling* aspect of video production. LTX isn’t just a prompt box; it’s an entire studio interface.
 
 LTX allows users to storyboard their ideas, offering granular control over camera angles, lighting styles, and even “directing” the movement speed within a frame. It’s a fantastic tool for pre-visualization and conceptualizing complex narratives.
