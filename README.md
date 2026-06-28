@@ -1,4 +1,4 @@
-# Top 3 Online AI Video Generator Platforms
+# Top 3 Online AI Video and Image Generation Platforms
 
 I spent the last 25 weeks trying nearly every NSFW video and image generator. I was absolutely frustrated with how some generators took forever to work or would completely censor your generations. Below are the only 3 you should care about for either good outputs and uncensored outputs.
 
