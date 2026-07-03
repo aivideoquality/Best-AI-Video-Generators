@@ -30,6 +30,10 @@ Unlike its competitors, SocialSight isn’t just a tool for generating random cl
 
 **[Try for yourself](https://socialsight.ai/apps/video-generator?utm_source=github)**
 
+### Prompt: "woman lying on bed"
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/b727611c-7d46-4585-9d72-06296e370c68" />
+
+
 ---
 
 ## 2. LTX
