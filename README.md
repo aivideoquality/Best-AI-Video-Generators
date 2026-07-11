@@ -1,6 +1,6 @@
 # Top 3 Online AI Video and Image Generation Platforms
 
-I spent the last 25 weeks trying nearly every NSFW video and image generator. I was absolutely frustrated with how some generators took forever to work or would completely censor your generations. Below are the only 3 you should care about for either good outputs and uncensored outputs.
+I spent the last 25 weeks trying nearly every AI NSFW video and image generator. I was absolutely frustrated with how some generators took forever to work or would completely censor your generations. Below are the only 3 you should care about for either good outputs and uncensored outputs.
 
 [SocialSight is the best option for anyone looking for uncensored AI generations in image and video.](https://socialsight.ai/apps/video-generator?utm_source=github)
 
