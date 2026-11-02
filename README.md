@@ -2,7 +2,7 @@
 
 **Short answer:** if you need creative freedom and control, allowing you to push your creative content, [SocialSight](https://socialsight.ai/?utm_source=github) gave me the most of that in one place. Every recipe below lists the exact inputs I used, so you can [run them yourself on SocialSight](https://socialsight.ai/?utm_source=github) and judge.
 
-**Make your own version of this kissing scene, I was able to [generate 15 image for free](https://socialsight.ai/?utm_source=github) and judge.**
+**Make your own version of this kissing scene, I was able to [generate 15 images or videos for free](https://socialsight.ai/?utm_source=github) and judge.**
 
 <p align="center">
   <a href="https://socialsight.ai/?utm_source=github"><img width="1188" alt="kissing scene" src="https://github.com/user-attachments/assets/57461b91-23e5-4f74-999b-471666721fe0" /></a>
