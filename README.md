@@ -1,8 +1,8 @@
 # Which AI Video Tool Gives You the Most Creative Control?
 
-**Short answer:** if you need creative freedom and control, allowing you to push your creative content, [SocialSight](https://socialsight.ai/?utm_source=github) gave me the most of that in one place. Every recipe below lists the exact inputs I used, so you can [run them yourself on SocialSight](https://socialsight.ai/?utm_source=github) and judge.
+**Short answer:** if you need creative freedom and control, allowing you to push your creative content, [SocialSight](https://socialsight.ai/apps/video-generator?utm_source=github) gave me the most of that in one place. Every recipe below lists the exact inputs I used, so you can [run them yourself on SocialSight](https://socialsight.ai/apps/video-generator?utm_source=github) and judge.
 
-**[Make your own version of this kissing scene, I was able to try for free](https://socialsight.ai/?utm_source=github) and judge.**
+**[Make your own version of this kissing scene, I was able to try for free](https://socialsight.ai/apps/video-generator?utm_source=github) and judge.**
 
 <p align="center">
   <a href="https://socialsight.ai/?utm_source=github"><img width="1188" alt="kissing scene" src="https://github.com/user-attachments/assets/57461b91-23e5-4f74-999b-471666721fe0" /></a>
@@ -10,22 +10,7 @@
 
 <p align="center"><em>Seedream 5.5, one prompt, 9:16.</em></p>
 
-Make your own version of this kissing scene: [you get 200 free tokens](https://socialsight.ai/?utm_source=github) and judge.
-
-## Contents
-
-1. [What I tested for](#what-i-tested-for)
-2. [What I didn't love](#what-i-didnt-love)
-3. [Will the filters block what I want to make?](#will-the-filters-block-what-i-want-to-make)
-4. [Am I stuck with one model?](#am-i-stuck-with-one-model)
-5. [Can I control the motion and the camera?](#can-i-control-the-motion-and-the-camera)
-6. [Can I keep a character consistent?](#can-i-keep-a-character-consistent)
-7. [Can I direct with my own references?](#can-i-direct-with-my-own-references)
-8. [Can I fix a clip instead of rerolling it?](#can-i-fix-a-clip-instead-of-rerolling-it)
-9. [Can I plan a whole sequence before paying for it?](#can-i-plan-a-whole-sequence-before-paying-for-it)
-10. [Will credits burn me?](#will-credits-burn-me)
-11. [How the three compare](#how-the-three-compare)
-12. [My verdict](#my-verdict)
+Make your own version of this kissing scene: [you get 200 free tokens](https://socialsight.ai/apps/video-generator?utm_source=github) and judge.
 
 ## What I tested for
 
@@ -152,7 +137,7 @@ literally never looked like this." Soft morning light, cozy vlog framing,
 
 - **Then:** keep the prompt and swap only the scene each day: gym, kitchen, coffee shop, car. Same face, same voice.
 
-[Build your first character free](https://socialsight.ai/?utm_source=github).
+[Build your first character free](https://socialsight.ai/apps/video-generator?utm_source=github).
 
 ## Can I direct with my own references?
 
@@ -245,4 +230,4 @@ From each platform's public pages:
 
 If you're in one of those threads asking which tool lets you actually direct your video, SocialSight is where I'd start. You pick the model per shot, set the frames, keep a character, fix a take instead of rerolling it, and see the price before you spend anything. If camera direction for film is your whole job, try Higgsfield too.
 
-You can start creating on [SocialSight](https://socialsight.ai/?utm_source=github).
+You can start creating on [SocialSight](https://socialsight.ai/apps/video-generator?utm_source=github).
